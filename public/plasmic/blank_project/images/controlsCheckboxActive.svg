@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#NeLAcFidRa)">
+    <circle cx="10" cy="10" r="10" fill="#3751FF"/>
+    <path d="M5 11l2.93 2.93a.1.1 0 00.14 0L15 7" stroke="#fff" stroke-width="1.7" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <clipPath id="NeLAcFidRa">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>
